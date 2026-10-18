@@ -1,0 +1,6 @@
+/target/
+.idea/
+.vscode/
+*.swp
+stack-debug.log
+__pycache__/

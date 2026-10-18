@@ -1,0 +1,9 @@
+[package]
+name = "stack-game"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+macroquad = "0.4.16"
+stack-core = { path = "../stack-core" }
